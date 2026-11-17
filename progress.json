@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:24:44.899Z",
+  "generated_at": "2026-11-17T13:24:47.206Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -37,6 +37,32 @@
       "last_pushed_at": "2026-11-16T12:54:32.618Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2026-11-17T06:37:16.753Z",
+      "last_pushed_at": "2026-11-17T06:37:16.753Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-11-17T13:21:14.046Z",
+      "last_pushed_at": "2026-11-17T13:21:14.046Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
